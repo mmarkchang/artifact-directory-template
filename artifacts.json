@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/mmarkchang/artifact-directory-template",
+    "project-repository": "https://github.com/ChrisLy99/political_bots",
+    "dockerhub-repository": "mmarkchang/methodology-7:latest",
+    "project-website-url": "https://chrisly99.github.io/political_bots_site/",
+    "project-website-code": "https://github.com/ChrisLy99/political_bots_site"
 }

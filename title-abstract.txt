@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Political Polarization of Major News Networks on Twitter
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+We will analyze the users who interact with the Twitter accounts of various popular news networks to compare their alignment across the U.S. political spectrum. We will be collecting hashtags used in the users' home timelines to classify their political stance as well as create a graph analysis between the news networks as a whole. Through this, we demonstrate the location where each news network (the users who interact with these networks) lies on the U.S. political spectrum and how they lie relative in hashtag vector space to one another.
